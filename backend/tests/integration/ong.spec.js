@@ -23,6 +23,7 @@ describe('ONG', () => {
         city: "TEst City",
         uf: "TC"
       })
+      
 
     expect(response.body).toHaveProperty('id')
     expect(response.body.id).toHaveLength(8)
