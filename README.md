@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Be The Hero" title="#delicinha" src=".github/bethehero.svg" width="200px" />
+    <img alt="Be The Hero" title="Be The Hero" src="bethehero.svg" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -16,14 +16,13 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+  <img alt="BeTheHero" src="bethehero.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
